@@ -99,15 +99,19 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/Reniyas%20Kanagaraj">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="mailto:reniyasnadar717@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="30"/>
-  </a>
-  <a href="https://reniyasnadar.vercel.app">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30"/>
-  </a>
+
+<a href="https://linkedin.com/in/Reniyas%20Kanagaraj" style="margin: 0 15px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
+</a>
+
+<a href="mailto:reniyasnadar717@gmail.com" style="margin: 0 15px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="32" />
+</a>
+
+<a href="https://reniyasnadar.vercel.app" style="margin: 0 15px;">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="32" />
+</a>
+
 </div>
 
 ---
