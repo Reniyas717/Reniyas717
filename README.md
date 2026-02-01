@@ -18,13 +18,6 @@
 - Reach me at **reniyasnadar717@gmail.com**
 - Portfolio: **https://reniyasnadar.vercel.app**
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reniyas717&theme=blue-green&no-frame=false&no-bg=true&margin-w=4&row=1" />
-</div>
 
 ---
 
