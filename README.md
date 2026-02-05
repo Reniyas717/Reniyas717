@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/github/stars/Reniyas717?label=Stars&style=social" />
 </div>
 
+![snake gif](https://github.com/Reniyas717/Reniyas717/blob/output/github-snake-dark.svg)
+
 ---
 
 ## 🚀 About Me
