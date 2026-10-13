@@ -162,9 +162,10 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" align="center">
       <img
