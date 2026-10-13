@@ -107,8 +107,19 @@
 <table>
   <tr>
     <td width="50%" style="padding: 15px;" align="center">
+      <a href="https://github.com/romeirofernandes/tech-fiesta">
+        <img src="public/Screenshot%202026-10-13%20174144.png" alt="Pashu Pehchan" width="85%"/>
+      </a>
+      <h3>
+        <a href="https://github.com/romeirofernandes/tech-fiesta">
+          <span style="color: #ffffff !important;">Pashu Pehchan</span>
+        </a>
+      </h3>
+      <p align="left">Full-stack smart livestock management platform covering livestock trading, disease detection workflows, analytics dashboards, and farmer services with RFID tags and IoT sensor integrations.</p>
+    </td>
+    <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/gavin100305/HackFusion-CityPulse">
-        <img src="public/CityPulse.png" alt="CityPulse" width="85%"/>
+        <img src="public/Screenshot%202026-10-13%20174230.png" alt="CityPulse" width="85%"/>
       </a>
       <h3>
         <a href="https://github.com/gavin100305/HackFusion-CityPulse">
@@ -117,9 +128,14 @@
       </h3>
       <p align="left">Real-time civic infrastructure reporting platform, winner of HackFusion (1st place, Feb 2026). Citizens report civic issues, track resolution status, and monitor transparency dashboards. Built with structured issue tracking and real-time updates.</p>
     </td>
+  </tr>
+  <tr style="height: 30px;">
+    <td colspan="2"></td>
+  </tr>
+  <tr>
     <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/Reniyas717">
-        <img src="public/Nexus.png" alt="Nexus" width="85%"/>
+        <img src="public/Screenshot%202026-10-13%20174604.png" alt="Nexus" width="85%"/>
       </a>
       <h3>
         <a href="https://github.com/Reniyas717">
@@ -128,14 +144,9 @@
       </h3>
       <p align="left">All-in-one business operating platform connecting customer records, CRM, billing, marketing campaigns, and autonomous AI workflows into a single workspace. Features real-time sync, single-tenant security, and automated churn management.</p>
     </td>
-  </tr>
-  <tr style="height: 30px;">
-    <td colspan="2"></td>
-  </tr>
-  <tr>
     <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/Reniyas717/KHELE">
-        <img src="public/public/Screenshot 2026-10-13 174043.png" alt="Khele" width="85%"/>
+        <img src="public/Screenshot%202026-10-13%20174043.png" alt="Khele" width="85%"/>
       </a>
       <h3>
         <a href="https://github.com/Reniyas717/KHELE">
@@ -143,17 +154,6 @@
         </a>
       </h3>
       <p align="left">Real-time multiplayer platform with multiple drawing and board games. Features hand gesture-based drawing with smooth computer vision tracking, canvas rendering, AI bots, and synchronized gameplay across players.</p>
-    </td>
-    <td width="50%" style="padding: 15px;" align="center">
-      <a href="https://github.com/romeirofernandes/tech-fiesta">
-        <img src="public/Pashu-Pehchan.png" alt="Pashu Pehchan" width="85%"/>
-      </a>
-      <h3>
-        <a href="https://github.com/romeirofernandes/tech-fiesta">
-          <span style="color: #ffffff !important;">Pashu Pehchan</span>
-        </a>
-      </h3>
-      <p align="left">Full-stack smart livestock management platform covering livestock trading, disease detection workflows, analytics dashboards, and farmer services with RFID tags and IoT sensor integrations.</p>
     </td>
   </tr>
 </table>
