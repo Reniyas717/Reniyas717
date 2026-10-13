@@ -209,14 +209,14 @@ reniyas@workstation:~$ cat about.json
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Reniyas717&show_icons=true&theme=tokyonight&border_color=2F81F7&border_radius=8&count_private=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=Reniyas717&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true&include_all_commits=true"
         alt="Reniyas's GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reniyas717&layout=donut&theme=tokyonight&border_color=2F81F7&border_radius=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reniyas717&layout=donut&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
         alt="Top Languages"
         width="100%"
       />
@@ -225,9 +225,9 @@ reniyas@workstation:~$ cat about.json
   <tr>
     <td colspan="2" align="center" valign="middle">
       <img
-        src="https://streak-stats.demolab.com?user=Reniyas717&theme=tokyonight&hide_border=true"
+        src="https://streak-stats.demolab.com?user=Reniyas717&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"
         alt="GitHub Contribution Streak"
-        width="75%"
+        width="58%"
       />
     </td>
   </tr>
@@ -262,7 +262,7 @@ reniyas@workstation:~$ cat about.json
 <br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="55%" alt="Quote" />
 </div>
 
 <div align="center">
