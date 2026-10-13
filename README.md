@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/Reniyas717?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Reniyas717?label=Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Reniyas717&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/Reniyas717.svg?label=Profile%20Views&color=2f81f7" alt="Profile Views" />
 </div>
 
 <br />
