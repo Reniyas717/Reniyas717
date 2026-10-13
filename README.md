@@ -135,7 +135,7 @@
   <tr>
     <td width="50%" style="padding: 15px;" align="center">
       <a href="https://github.com/Reniyas717/KHELE">
-        <img src="public/Khele.png" alt="Khele" width="85%"/>
+        <img src="public/public/Screenshot 2026-10-13 174043.png" alt="Khele" width="85%"/>
       </a>
       <h3>
         <a href="https://github.com/Reniyas717/KHELE">
