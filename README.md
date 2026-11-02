@@ -207,18 +207,18 @@ reniyas@workstation:~$ cat about.json
 
 <table align="center">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reniyas717&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true&include_all_commits=true"
         alt="Reniyas's GitHub Stats"
-        width="100%"
+        height="165"
       />
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reniyas717&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reniyas717&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
         alt="Top Languages"
-        width="100%"
+        height="165"
       />
     </td>
   </tr>
@@ -227,7 +227,7 @@ reniyas@workstation:~$ cat about.json
       <img
         src="https://streak-stats.demolab.com?user=Reniyas717&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"
         alt="GitHub Contribution Streak"
-        width="58%"
+        width="490"
       />
     </td>
   </tr>
