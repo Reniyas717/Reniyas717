@@ -209,14 +209,14 @@ reniyas@workstation:~$ cat about.json
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Reniyas717&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true&include_all_commits=true"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reniyas717&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true&include_all_commits=true"
         alt="Reniyas's GitHub Stats"
         width="100%"
       />
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reniyas717&layout=donut&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reniyas717&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
         alt="Top Languages"
         width="100%"
       />
