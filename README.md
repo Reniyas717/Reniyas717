@@ -209,15 +209,15 @@ reniyas@workstation:~$ cat about.json
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Reniyas717&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&count_private=true&include_all_commits=true"
-        alt="Reniyas's GitHub Stats"
+        src="public/stats.svg"
+        alt="My GitHub Statistics"
         height="165"
       />
     </td>
     <td align="center" valign="middle">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reniyas717&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"
-        alt="Top Languages"
+        src="public/top-langs.svg"
+        alt="My Programming Languages"
         height="165"
       />
     </td>
