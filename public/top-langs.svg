@@ -1,0 +1,56 @@
+<svg width="300" height="215" viewBox="0 0 300 215" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58a6ff; animation: fadeInAnimation 0.8s ease-in-out forwards; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .stagger { opacity: 0; animation: fadeInAnimation 0.3s ease-in-out forwards; }
+    @keyframes fadeInAnimation { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#30363d" width="299" fill="#0d1117" stroke-opacity="1" />
+
+  <g data-testid="card-title" transform="translate(25, 35)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">My Programming Languages</text>
+    </g>
+  </g>
+
+  <g data-testid="main-card-body" transform="translate(0, 55)">
+    <svg data-testid="lang-items" x="25">
+      <g transform="translate(0, 0)">
+        <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook 43.54%</text>
+        <svg width="250">
+          <rect rx="5" ry="5" x="0" y="25" width="250" height="8" fill="#30363d"></rect>
+          <rect rx="5" ry="5" x="0" y="25" width="108.85" height="8" fill="#DA5B0B"></rect>
+        </svg>
+      </g>
+      <g transform="translate(0, 25)">
+        <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript 26.70%</text>
+        <svg width="250">
+          <rect rx="5" ry="5" x="0" y="25" width="250" height="8" fill="#30363d"></rect>
+          <rect rx="5" ry="5" x="0" y="25" width="66.75" height="8" fill="#f1e05a"></rect>
+        </svg>
+      </g>
+      <g transform="translate(0, 50)">
+        <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript 24.31%</text>
+        <svg width="250">
+          <rect rx="5" ry="5" x="0" y="25" width="250" height="8" fill="#30363d"></rect>
+          <rect rx="5" ry="5" x="0" y="25" width="60.78" height="8" fill="#3178c6"></rect>
+        </svg>
+      </g>
+      <g transform="translate(0, 75)">
+        <text data-testid="lang-name" x="2" y="15" class="lang-name">PLpgSQL 4.57%</text>
+        <svg width="250">
+          <rect rx="5" ry="5" x="0" y="25" width="250" height="8" fill="#30363d"></rect>
+          <rect rx="5" ry="5" x="0" y="25" width="11.43" height="8" fill="#336790"></rect>
+        </svg>
+      </g>
+      <g transform="translate(0, 100)">
+        <text data-testid="lang-name" x="2" y="15" class="lang-name">Python 0.88%</text>
+        <svg width="250">
+          <rect rx="5" ry="5" x="0" y="25" width="250" height="8" fill="#30363d"></rect>
+          <rect rx="5" ry="5" x="0" y="25" width="5.0" height="8" fill="#3572A5"></rect>
+        </svg>
+      </g>
+    </svg>
+  </g>
+</svg>
