@@ -216,7 +216,7 @@ reniyas@workstation:~$ cat about.json
     </td>
     <td align="center" valign="middle">
       <img
-        src="public/top-langs.svg"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reniyas717&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&custom_title=My%20Programming%20Languages"
         alt="My Programming Languages"
         height="165"
       />
